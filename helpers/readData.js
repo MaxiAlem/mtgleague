@@ -8,7 +8,7 @@ const readData = async () => {
         const data = playersSaved !== null ? JSON.parse(playersSaved) : [];
     //   if (playersSaved !== null) {
     //     setPlayers(JSON.parse(playersSaved));//habia que reconvertir el string del storage a objeto }
-    console.log(data)
+    
         
     return data;
       
