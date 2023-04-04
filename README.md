@@ -41,3 +41,16 @@ import {
 
 - [Icon directory](https://expo.github.io/vector-icons/)
 - [`@expo/vector-icons` documentation](https://docs.expo.dev/versions/latest/guides/icons/)
+
+
+
+_________/////////\\\\\\\\\_______________
+
+abandonado por no saber como manejar el sistema para armar liguilla
+
+posibles features mas a nivel de simio
+
+seteo manual de cada participante,para evitar repeticiones, se pueden mantener scores automaticos, 
+pero mucho codigo para clavarme de nuevo en 3 horas
+
+
